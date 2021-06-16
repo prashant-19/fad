@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 
 // define a simple route
 /*app.get('/images/favicon', (req, res) => {
-    res.sendFile(path.join(__dirname+'/templates/images/Icon_Remindoze.jpg'));
+    res.sendFile(path.join(__dirname+'/templates/images/fivo1.png'));
 });*/
 
 // sitemap
